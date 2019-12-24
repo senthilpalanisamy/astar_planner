@@ -330,4 +330,3 @@ class GridGraph:
 
 if __name__=='__main__':
   utai_reader = UtaisDatasetReader()
-  print 'finish'

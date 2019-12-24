@@ -1,6 +1,6 @@
 The python version used for this is python2. libraries required for running the program has been placed in requirements.txt
 You can install all required libraries using `pip install -r requirements.txt`
-\\ The repo consists of 5 files
+<br /> The repo consists of 5 files
 1. a_star_algorithm.py - The file which contains the business logic - the 
  implementation of PID controller and A star planner.
 2. datastructures.py - The file which contains datastructures used throughout
@@ -13,7 +13,7 @@ file
 file just calls the core alogrithm to test a few cases that were asked in the 
 assignment question.
 
-\\To run all test cases, just type `python run_me.py`. You can see all the 
+<br />To run all test cases, just type `python run_me.py`. You can see all the 
 test cases being run. 
-\\ The code has been documented and that is self explanatory. For more details
+<br />The code has been documented and that is self explanatory. For more details
 about the implementation, please read the pdf report commited in the repo.
